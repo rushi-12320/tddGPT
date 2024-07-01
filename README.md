@@ -85,4 +85,4 @@ This project is open source, under the [MIT license](LICENSE).
 
 ## Contact
 
-If you have any questions or comments, please feel free to reach out to us on GitHub.
+If you have any questions or comments, please feel free to reach out to me on linkedln [Rushi Patel]: (https://www.linkedin.com/in/rushi-patel-193079266/)
